@@ -14,5 +14,6 @@ def check(myStr):
                 return "Unbalanced"
     if len(stack) == 0:
         return "Balanced"
+#jf
 string = input("type the brakets:")
 print(string, "-", check(string))
