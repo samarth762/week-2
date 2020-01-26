@@ -15,5 +15,5 @@ def check(myStr):
     if len(stack) == 0:
         return "Balanced"
 #jf
-string = input("type the brakets:")
+string = "({[]})"
 print(string, "-", check(string))
