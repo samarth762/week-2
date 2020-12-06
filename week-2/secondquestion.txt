@@ -1,0 +1,6 @@
+Application of stacks are:-
+1)game playing
+2)finding path
+Application of queues are:-
+1)Luggage checking machine
+2)Phone answering system
